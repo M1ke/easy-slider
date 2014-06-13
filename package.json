@@ -1,0 +1,20 @@
+{
+    "name": "easy-slider",
+    "author": {
+        "name": "Mike Lehan",
+        "url": "https://github.com/M1ke"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "LICENSE"
+        }
+    ],
+    "dependencies": {
+        "jquery": ">=1.4.4"
+    },
+    "description": "Easy slider",
+    "files": [
+        "easy-slider.js"
+    ]
+}
