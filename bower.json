@@ -11,9 +11,9 @@
         }
     ],
     "dependencies": {
-        "jquery": "/home/m1ke/web/lib/js/jquery/.git"
+        "jquery": "git@github.com:m1ke/jquery-bower.git"
     },
-    "description": "Easy slider",
+    "description": "Turns a container into an automatically playing slider",
     "files": [
         "easy-slider.js"
     ]
