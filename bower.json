@@ -11,7 +11,7 @@
         }
     ],
     "dependencies": {
-        "jquery": "git@github.com:m1ke/jquery-bower.git"
+        "jquery": "https://github.com/m1ke/jquery-bower.git"
     },
     "description": "Turns a container into an automatically playing slider",
     "files": [
